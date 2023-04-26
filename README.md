@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Polonkoev
-- 👀 I’m interested in Front-End
+- 👀 I’m interested in Fullstack (React.js, Node.js)
 - 🌱 I’m currently learning Front-End in GoIT 
-- 💞️ I’m looking to collaborate on Google)
+- 💞️ Work should bring not only money but also pleasure)
 - 📫 How to reach me polonkoev.temerlan@gmail.com
 
 <!---
