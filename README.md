@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Polonkoev
 - 👀 I’m interested in Fullstack (React.js, Node.js)
-- 🌱 I’m currently learning Front-End in GoIT 
+- 🌱 I’m currently work QA engineere 
 - 💞️ Work should bring not only money but also pleasure)
 - 📫 How to reach me polonkoev.temerlan@gmail.com
 
